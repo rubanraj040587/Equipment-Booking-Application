@@ -6,7 +6,7 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    base: '/Equipment-Booking-Application/',
+    base: '/Equipment-Booking-Application/'
 
     server: {
       port: 3000,
