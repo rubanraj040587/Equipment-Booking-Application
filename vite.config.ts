@@ -6,7 +6,6 @@ export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
 
   return {
-    // REQUIRED for GitHub Pages
     base: '/Equipment-Booking-Application/',
 
     server: {
