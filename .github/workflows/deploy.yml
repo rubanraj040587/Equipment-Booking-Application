@@ -1,0 +1,4 @@
+Equipment-Booking-Application/
+  .github/
+    workflows/
+      deploy.yml   ← create this file here
