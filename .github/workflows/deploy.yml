@@ -2,9 +2,6 @@ Equipment-Booking-Application/
   .github/
     workflows/
       deploy.yml   ← create this file here
-      
-      name: Build Vite App
-
 on:
   push:
     branches: [ main ]
